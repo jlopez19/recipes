@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="title_activity_recipe_detail">RecipeDetailActivity</string>
+    <string name="title_activity_recipe_map">RecipeMapActivity</string>
+
+    <string name="google_maps_api_key">AIzaSyD0_d3_PCXw4y7vWLuF8kfJIF4i4XLo2r0</string>
+    <string name="not_recipes">No se encontraron recetas</string>
+    <string name="error">Ocurrió un error</string>
+</resources>
