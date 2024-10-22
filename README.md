@@ -1,4 +1,5 @@
 Descripción de la aplicación
+
 La aplicación se encarga de obtener un listado de recetas por medio de peticiones API Rest, luego de esto carga el listado en una vista principal, también genera una vista detallada de una receta seleccionada y por último un mapa que ubica el origen de dicha receta.
 
 
